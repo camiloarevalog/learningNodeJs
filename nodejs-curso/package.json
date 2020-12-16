@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "name": "nodejs-curso",
+  "version": "0.0.1",
+  "description": "Curso de NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "español",
+    "aprender"
+  ],
+  "author": "Camilo Arevalo Gutierrez",
+  "license": "ISC"
+}
